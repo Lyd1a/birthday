@@ -10,7 +10,8 @@ var config = {
         "每天都能开开心心的",
         "健康成长",
         "希望你能喜欢这个生日礼物",
-        "来自 爱你的刘艺扬姐姐～～",
+        "来自",
+        "爱你的刘艺扬姐姐 MUA～～",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -27,9 +28,9 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "生日条幅？",
+        turn_on: "灯光？",
+        play: "音乐？",
+        bannar_coming: "条幅？",
         balloons_flying: "气球？",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
